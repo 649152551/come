@@ -1,11 +1,11 @@
-## 免责声明
+## Disclaimer
 
-本项目仅用于学习、研究与技术交流，请勿用于任何商业用途或违法违规活动。
+This project is provided for educational, research, and technical communication purposes only. It must not be used for any illegal, unauthorized, or commercial activities.
 
-使用本项目代码所产生的一切后果均由使用者自行承担，包括但不限于数据丢失、系统异常、账号风险、经济损失或其他相关责任，项目作者不对此承担任何责任。
+Users are solely responsible for any consequences resulting from the use, modification, distribution, or deployment of this project, including but not limited to data loss, system failures, account issues, financial losses, or other damages. The author assumes no responsibility or liability for any such consequences.
 
-本项目所涉及的第三方服务、接口、商标、产品名称及相关内容，其权利均归原权利人所有。如有侵权或不当内容，请联系删除。
+Any third-party services, APIs, trademarks, product names, or other referenced materials belong to their respective owners. If any content infringes upon your rights, please contact the author for removal.
 
-下载、复制、修改或使用本项目，即视为您已阅读并同意本免责声明。
+By downloading, copying, modifying, or using this project, you acknowledge that you have read, understood, and agreed to this disclaimer.
 
-**仅限学习与研究使用，请遵守当地法律法规及相关平台规则。**
+**For educational and research purposes only. Please comply with all applicable laws, regulations, and platform policies.**
